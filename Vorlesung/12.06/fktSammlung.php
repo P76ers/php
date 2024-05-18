@@ -1,5 +1,5 @@
 <?php
-//c�=a�+b�;
+//c²=a²+b²;
 function pyta($a, $b)
 {
   return sqrt(pow($a, 2) + $b * $b);
